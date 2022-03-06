@@ -6,3 +6,6 @@
    1. Aplikasi Sistem Undangan Digital
    2. Aplikasi CRUD with PHP MYSQL
    3. Aplikasi Nota
+   4. Learn JS
+   5. Learn Kotlin
+   
